@@ -54,12 +54,13 @@
 
 1. Clone le dépôt :
     git clone https://github.com/acanavat/Cub3D.git
-    cd Cub3D
 
-2. Compile le programme (avec MinilibX installée et configurée) :
+   cd Cub3D
+
+3. Compile le programme (avec MinilibX installée et configurée) :
    make
 
-3. Lance le projet avec une map au format `.cub` :  
+4. Lance le projet avec une map au format `.cub` :  
    ./cub3D path/to/map.cub
 
 ---
