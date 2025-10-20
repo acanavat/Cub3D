@@ -74,12 +74,9 @@ Le fichier de carte `.cub` doit contenir :
 
 Exemple minimal :
 
-NO ./textures/north.xpm
-
-SO ./textures/south.xpm
-
-WE ./textures/west.xpm
-
+NO ./textures/north.xpm\
+SO ./textures/south.xpm\
+WE ./textures/west.xpm\
 EA ./textures/east.xpm
 
 F 220,100,0\
